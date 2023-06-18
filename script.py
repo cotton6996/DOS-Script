@@ -50,12 +50,12 @@ def attack():
     except:
         pass
 
-    clear = lambda: os.system('cls')
+    clear = lambda: os.system('clear')
     clear()
 
 print('                       -------------------------------------------------')    
-print('                       | SneakyPanda\'s socials                          |')
-print('                       | Discord: SneakyPanda#7981                      |')
+print('                       | Peakys\'s socials                             |')
+print('                       | Discord: Hehe                                 |')
 print('                       | Github: SneakyPanda998                         |')
 print('                       | Instagram: Coming soon!                        |')
 print('                       | Current Project: https://discord.gg/VQsrvPSvEd |')
